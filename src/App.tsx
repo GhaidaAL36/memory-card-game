@@ -155,8 +155,8 @@ function App() {
       {showWin && (
         <div className="win-overlay">
           <div className="win-message">
-            <h2>🎉 You Win!</h2>
-            <p>Great job, you matched all cards!</p>
+            <h2>You Win!</h2>
+            <p>Great job</p>
           </div>
         </div>
       )}
